@@ -34,3 +34,11 @@ Ensure that the following permissions are enabled: `Web & App Activity, Device I
 - Click Restore From Zip and Upload the downloaded ZIP file.
 Type "RESTORE" and click the Restore button and click Done.
 - Make the necessary changes and download the ZIP again with the changes and make the Pull Request on this repository.
+
+## Maintainers
+- Aditya Pal
+- Aman Pratap Singh
+- Saksham Arneja
+
+## LICENSE
+TBD
