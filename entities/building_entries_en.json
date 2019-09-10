@@ -1,0 +1,65 @@
+[
+  {
+    "value": "BHR",
+    "synonyms": [
+      "BHR",
+      "Brahmaputra Hall of Residence"
+    ]
+  },
+  {
+    "value": "GHR",
+    "synonyms": [
+      "GHR",
+      "Ganga Hall of Residence"
+    ]
+  },
+  {
+    "value": "MHR",
+    "synonyms": [
+      "MHR",
+      "Mahanadi Hall of Residence"
+    ]
+  },
+  {
+    "value": "SBS",
+    "synonyms": [
+      "SBS",
+      "School of Basic Sciences"
+    ]
+  },
+  {
+    "value": "SEOCS",
+    "synonyms": [
+      "SEOCS",
+      "School of Earth, Ocean and Climate Sciences"
+    ]
+  },
+  {
+    "value": "SES",
+    "synonyms": [
+      "SES",
+      "School of electrical Sciences"
+    ]
+  },
+  {
+    "value": "SHR",
+    "synonyms": [
+      "SHR",
+      "Subarnarekha Hall of Residence"
+    ]
+  },
+  {
+    "value": "SIF",
+    "synonyms": [
+      "SIF",
+      "School of Infrastructure"
+    ]
+  },
+  {
+    "value": "SMS",
+    "synonyms": [
+      "SMS",
+      "School of Mechanica Sciences"
+    ]
+  }
+]
