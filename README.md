@@ -35,10 +35,12 @@ Ensure that the following permissions are enabled: `Web & App Activity, Device I
 Type "RESTORE" and click the Restore button and click Done.
 - Make the necessary changes and download the ZIP again with the changes and make the Pull Request on this repository.
 
+**Note**: *index.js* is provided as a gist [here](https://gist.github.com/PalAditya/841b56e7559506c5c9a77260ad371381) so that you can add it to the fulfillment section (which you'll need for webhook calls and custom payloads, such as opening Google Maps) easily. Just copy and paste :grin:
+
 ## Maintainers
-- Aditya Pal
-- Aman Pratap Singh
-- Saksham Arneja
+- [Aditya Pal](https://github.com/PalAditya/)
+- [Aman Pratap Singh](https://github.com/apsknight)
+- [Saksham Arneja](https://github.com/arnejasaksham)
 
 ## LICENSE
 TBD
