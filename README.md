@@ -5,7 +5,11 @@
 Invoke action by speaking `Talk to IIT Bhubaneswar Guide` to Google Assistant.
 
 ## Supported Actions(tentative)
-- Inside Campus Map (ex: Show me direction to SHR)
+- Inside Campus Map (ex: Show me direction to SES)
+
+![Screenshot_20190911-152633](https://user-images.githubusercontent.com/25523604/64689638-58282480-d4ac-11e9-8087-371c88fda9ec.png)
+
+
 - Timetable
 - Bus schedule
 - BOV schedule
