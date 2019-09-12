@@ -1,3 +1,4 @@
+
 # Google Action for [Indian Institute of Technology Bhubaneswar](http://www.iitbbs.ac.in)
 
 
@@ -13,7 +14,10 @@ Invoke action by speaking `Talk to IIT Bhubaneswar Guide` to Google Assistant.
 - Timetable
 - Bus schedule
 - BOV schedule
-- Upcoming institute holidays
+- Upcoming institute holidays (Ex-Show me upcoming holidays)
+
+![Screenshot_20190912-163047](https://user-images.githubusercontent.com/25523604/64779185-09958b80-d57b-11e9-95ed-01fdbfba4a9e.png)
+
 - Mid/End Semester Exam schedule
 - Upcoming institute events
 - Important Contacts
@@ -39,7 +43,7 @@ Ensure that the following permissions are enabled: `Web & App Activity, Device I
 Type "RESTORE" and click the Restore button and click Done.
 - Make the necessary changes and download the ZIP again with the changes and make the Pull Request on this repository.
 
-**Note**: *index.js* is provided as a gist [here](https://gist.github.com/PalAditya/841b56e7559506c5c9a77260ad371381) so that you can add it to the fulfillment section (which you'll need for webhook calls and custom payloads, such as opening Google Maps) easily. Just copy and paste :grin:
+**Note**: *index.js* is provided as a gist [here](https://gist.github.com/PalAditya/2a995c9871e3b00b1b808af902d1b860) so that you can add it to the fulfillment section (which you'll need for webhook calls and custom payloads, such as opening Google Maps) easily. Just copy and paste :grin:
 
 ## Maintainers
 - [Aditya Pal](https://github.com/PalAditya/)
