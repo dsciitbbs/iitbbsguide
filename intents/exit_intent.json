@@ -12,6 +12,7 @@
         {
           "type": 0,
           "lang": "en",
+          "condition": "",
           "speech": [
             "Bye, have a good day",
             "Hope you enjoyed using me",
@@ -31,5 +32,6 @@
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
-  "events": []
+  "events": [],
+  "conditionalResponses": []
 }

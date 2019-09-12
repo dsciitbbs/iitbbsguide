@@ -13,6 +13,7 @@
         {
           "type": 0,
           "lang": "en",
+          "condition": "",
           "speech": [
             "Hi, I am the guide to IIT Bhubaneswar. what do you want to know?",
             "Hi, I can tell you many things about IIT Bhubaneswar. Please ask me something",
@@ -34,5 +35,6 @@
     {
       "name": "WELCOME"
     }
-  ]
+  ],
+  "conditionalResponses": []
 }

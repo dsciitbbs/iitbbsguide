@@ -1,6 +1,6 @@
 {
-  "id": "bde8f8bb-af38-4563-8a82-139b013d1cf0",
-  "name": "map_show",
+  "id": "a950f1c2-c60c-44e5-8ced-668fbf92e958",
+  "name": "holiday_intent",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -24,10 +24,6 @@
   "webhookUsed": true,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
-  "events": [
-    {
-      "name": "actions_intent_PERMISSION"
-    }
-  ],
+  "events": [],
   "conditionalResponses": []
 }
